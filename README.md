@@ -7,9 +7,9 @@ A website that helps you determine which platforms are suited to your brand. Hel
 * HTML
 * CSS
 * 
-! [Alt text] (https://i.imgur.com/ainStmn.png)
+! [Alt text](https://i.imgur.com/ainStmn.png)
 
-! [Alt text] (https://i.imgur.com/V6z3sYK.png)
+! [Alt text](https://i.imgur.com/V6z3sYK.png)
 
 ## Website
 https://github.com/jpozdnyakov/code-refactor </br>
