@@ -8,7 +8,7 @@ A website that helps you determine which platforms are suited to your brand. Hel
 * CSS
 
 ## Website
-https://github.com/jpozdnyakov/code-refactor/tree/main/02-Challenge </br>
+https://github.com/jpozdnyakov/code-refactor </br>
 https://jpozdnyakov.github.io/code-refactor/
 
 ## Contribution
